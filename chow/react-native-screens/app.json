@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-screens",
+    "slug": "react-native-screens",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
